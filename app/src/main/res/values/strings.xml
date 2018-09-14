@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kamera App</string>
+    <string name="cam">Cam</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="confused">Confused</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="numerical_password">Numerical Password</string>
+</resources>
